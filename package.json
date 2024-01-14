@@ -1,0 +1,26 @@
+{
+  "name": "dtc-vs-base-pack",
+  "displayName": "DTC VS code basic pack",
+  "description": "This pack contains essential extensions for using vs code for general purposes.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danyathecoder/DTC-VS-code-basic-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Equinusocio.vsc-material-theme",
+    "equinusocio.vsc-material-theme-icons",
+    "esbenp.prettier-vscode",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "shardulm94.trailing-spaces",
+    "tomoki1207.pdf"
+  ]
+}
